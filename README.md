@@ -41,33 +41,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-### 🔹 CodeBridge — Distributed Real-Time Interview Platform
-> A full-stack distributed coding interview platform supporting collaborative code editing, secure code execution, live video communication, and screen sharing.
-
-- Real-time collaborative editor with Socket.io
-- Docker based sandboxed code execution engine
-- WebRTC peer-to-peer video & screen share
-- JWT authentication + role based room access
-- Robust retry queue & failure handling pipeline
-
-**Tech Used:** `React.js` `Node.js` `Express.js` `Socket.io` `WebRTC` `Docker` `MongoDB`
-
----
-
-### 🔹 Manage.AI — Autonomous Multi-Agent SDLC Simulator
-> An intelligent multi-agent orchestration system simulating an entire software development team.
-
-- Product Manager, Developer, Designer, Critic autonomous agents
-- Iterative feedback refinement loop
-- Context aware prompt chaining with memory
-- PRD → Code → Review complete generation pipeline
-- REST APIs built with FastAPI for workflow coordination
-
-**Tech Used:** `Python` `CrewAI` `FastAPI` `Gemini/Groq APIs`
-
----
 
 ## 🧩 Competitive Programming & DSA
 
@@ -75,9 +48,9 @@
 ✔ Strong command over **Arrays, Hashing, Graphs, Greedy, Dynamic Programming**  
 ✔ Regular participant in coding contests
 
-- 🟨 LeetCode: **415+ Problems** | Max Contest Rating **1695**
+- 🟨 LeetCode: **430+ Problems**
 - 🟩 GeeksforGeeks: **150+ Problems**
-- 🟫 CodeChef: **2★** | Max Rating **1560**
+- 🟫 CodeChef: **2★** 
 - 🟦 Codeforces: **140+ Problems**
 
 ---
